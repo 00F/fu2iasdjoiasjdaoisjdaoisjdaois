@@ -2082,6 +2082,337 @@ s.delete(3000);
 });
 }
 });
+///////////////////////////////////////////////////////////////////////////////////////////////////
+p1.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "61")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p2.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "62")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p3.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "63")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p4.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "64")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p5.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "65")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p6.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "66")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p7.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "67")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p8.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "68")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p9.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "69")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p10.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "70")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p11.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "71")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p12.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "72")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p13.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "73")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p14.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "74")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p15.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "75")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p16.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "76")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p17.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "77")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p18.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "78")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p19.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "79")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p20.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "80")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p21.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "81")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p22.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "82")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p23.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "83")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p24.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "84")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p25.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "85")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p26.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "86")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p27.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "87")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p28.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "88")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p29.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "89")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
+p30.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix + "90")) {
+message.delete(3000);
+if(message.author.id !== "518751658755358720") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#credit <@518751658755358720> 10000').then(s => {
+s.delete(3000);
+});
+}
+});
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.login(process.env.B1);
 p2.login(process.env.B2);
