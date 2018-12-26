@@ -63,7 +63,7 @@ const p30 = new D30.Client();
 //////////////////////////////////////////////////////////////////////////////////////////////////
 var ServerID = "521659507970015235"; 
 var ChannelID = "527107467084300319";
-var prefix = "N";
+var prefix = "F";
 console.log('Bots. Is. Online.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('ready', () => {  
@@ -820,94 +820,94 @@ s.delete(3000);
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('ready', () => {
-p1.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p1.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p2.on('ready', () => {
-p2.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p2.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p3.on('ready', () => {
-p3.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p3.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p4.on('ready', () => {
-p4.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p4.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p5.on('ready', () => {
-p5.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p5.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p6.on('ready', () => {
-p6.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p6.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p7.on('ready', () => {
-p7.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p7.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p8.on('ready', () => {
-p8.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p8.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p9.on('ready', () => {
-p9.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p9.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p10.on('ready', () => {
-p10.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p10.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p11.on('ready', () => {
-p11.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p11.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p12.on('ready', () => {
-p12.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p12.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p13.on('ready', () => {
-p13.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p13.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p14.on('ready', () => {
-p14.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p14.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p15.on('ready', () => {
-p15.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p15.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p16.on('ready', () => {
-p16.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p16.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p17.on('ready', () => {
-p17.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p17.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p18.on('ready', () => {
-p18.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p18.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p19.on('ready', () => {
-p19.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p19.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p20.on('ready', () => {
-p20.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p20.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p21.on('ready', () => {
-p21.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p21.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p22.on('ready', () => {
-p22.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p22.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p23.on('ready', () => {
-p23.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p23.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p24.on('ready', () => {
-p24.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p24.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p25.on('ready', () => {
-p25.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p25.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p26.on('ready', () => {
-p26.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p26.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p27.on('ready', () => {
-p27.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p27.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p28.on('ready', () => {
-p28.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p28.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p29.on('ready', () => {
-p29.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p29.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 p30.on('ready', () => {
-p30.user.setActivity("Unì#0001",{type: 'PLAYING'})
+p30.user.setActivity("Mąnchểz#5000",{type: 'LISTENING'})
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
@@ -2082,7 +2082,7 @@ s.delete(3000);
 });
 }
 });
-///////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
